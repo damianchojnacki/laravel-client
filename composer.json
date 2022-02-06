@@ -20,7 +20,6 @@
   ],
   "require": {
     "php": "^7.4|^8.0",
-    "illuminate/config": "~7.0|~8.0",
     "php-mqtt/client": "^1.0"
   },
   "require-dev": {
